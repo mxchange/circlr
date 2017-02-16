@@ -1,7 +1,7 @@
 {
-  "name": "circlr",
+  "name": "circlr-fork",
   "description": "Animation rotation via scroll, mouse and touch events",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "keywords": [
     "animation",
     "rotation",
@@ -12,7 +12,7 @@
     "eventwheel": "^0.3.0",
     "component-emitter": "^1.2.0"
   },
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "postpublish": "git push --follow-tags"
   },
